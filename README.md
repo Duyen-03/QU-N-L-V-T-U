@@ -1,7 +1,7 @@
 # QUẢN LÍ VÉ TÀU
 
 
-Giải thích database:
+GIẢI THÍCH DATABASE
 
 🧩 1. Bảng TAIKHOAN
 Vai trò: Chứa thông tin đăng nhập (tài khoản và mật khẩu).
@@ -76,7 +76,7 @@ MaChuyenDi → CHUYENDI.
 
 KhachHang → KHACHHANG.
 
-Các chức năng cần làm:
+CÁC CHỨC NĂNG CẦN LÀM:
 
 🔐 1. Quản lý Đăng nhập (Login)
 Mục đích: Đảm bảo chỉ người quản lý mới được truy cập hệ thống.
